@@ -1,0 +1,18 @@
+itemGroup.packagedautowireless=PackagedAuto Wireless
+
+tile.packagedautowireless.wireless_packaging_provider.name=ME Wireless Packaging Provider
+tile.packagedautowireless.wireless_packaging_provider.links=Linked targets: %s
+
+item.packagedautowireless.package_connector.name=Package Connector
+item.packagedautowireless.package_connector.tooltip.1=Right-click a package machine, then the wireless provider to link.
+item.packagedautowireless.package_connector.tooltip.2=Unbound right-click lists links; Shift+right-click clears all.
+item.packagedautowireless.package_connector.bound=Bound target [%s, %s, %s] face %s
+item.packagedautowireless.package_connector.linked=Linked to wireless provider (total %s)
+item.packagedautowireless.package_connector.already_linked=This target is already linked
+item.packagedautowireless.package_connector.not_bound=Bind a package block first
+item.packagedautowireless.package_connector.wrong_dimension=Target must be in the same dimension
+item.packagedautowireless.package_connector.cleared=Cleared %s linked targets
+item.packagedautowireless.package_connector.unbind_item=Cleared stored target on connector
+item.packagedautowireless.package_connector.list_empty=No targets linked to this wireless provider
+item.packagedautowireless.package_connector.list_header=Linked targets (%s):
+item.packagedautowireless.package_connector.list_entry=%s. Dim %s  [%s, %s, %s]  face %s

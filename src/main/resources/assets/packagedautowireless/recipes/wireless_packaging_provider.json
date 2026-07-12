@@ -1,0 +1,33 @@
+{
+	"type": "forge:ore_shaped",
+	"result": {
+		"item": "packagedautowireless:wireless_packaging_provider",
+		"count": 1
+	},
+	"pattern": [
+		"FWF",
+		"PMP",
+		"FIF"
+	],
+	"key": {
+		"P": {
+			"item": "packagingprovider:packaging_provider"
+		},
+		"W": {
+			"item": "appliedenergistics2:material",
+			"data": 41
+		},
+		"M": {
+			"item": "appliedenergistics2:material",
+			"data": 24
+		},
+		"F": {
+			"item": "appliedenergistics2:material",
+			"data": 9
+		},
+		"I": {
+			"type": "forge:ore_dict",
+			"ore": "blockIron"
+		}
+	}
+}

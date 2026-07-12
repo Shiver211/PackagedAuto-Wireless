@@ -1,0 +1,18 @@
+itemGroup.packagedautowireless=无线封包供应器
+
+tile.packagedautowireless.wireless_packaging_provider.name=ME无线封包供应器
+tile.packagedautowireless.wireless_packaging_provider.links=已连接目标: %s
+
+item.packagedautowireless.package_connector.name=封包连接器
+item.packagedautowireless.package_connector.tooltip.1=右键封包方块记录目标，再右键ME无线封包供应器完成连接。
+item.packagedautowireless.package_connector.tooltip.2=右键ME无线供应器查看列表；Shift+右键清除全部连接。
+item.packagedautowireless.package_connector.bound=已绑定目标 [%s, %s, %s] 面 %s
+item.packagedautowireless.package_connector.linked=已连接到无线供应器（共 %s 个）
+item.packagedautowireless.package_connector.already_linked=该目标已连接
+item.packagedautowireless.package_connector.not_bound=请先右键绑定封包方块
+item.packagedautowireless.package_connector.wrong_dimension=目标必须在同一维度
+item.packagedautowireless.package_connector.cleared=已清除 %s 个连接
+item.packagedautowireless.package_connector.unbind_item=已清除连接器上的临时绑定
+item.packagedautowireless.package_connector.list_empty=无线供应器尚未连接任何目标
+item.packagedautowireless.package_connector.list_header=已连接目标（共 %s 个）：
+item.packagedautowireless.package_connector.list_entry=%s. 维度 %s  [%s, %s, %s]  面 %s
