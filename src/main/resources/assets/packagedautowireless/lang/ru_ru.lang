@@ -1,0 +1,18 @@
+itemGroup.packagedautowireless=PackagedAuto Wireless
+
+tile.packagedautowireless.wireless_packaging_provider.name=Беспроводной ME-поставщик упаковки
+tile.packagedautowireless.wireless_packaging_provider.links=Связанные цели: %s
+
+item.packagedautowireless.package_connector.name=Соединитель пакетов
+item.packagedautowireless.package_connector.tooltip.1=ПКМ по упаковочному механизму, затем по беспроводному поставщику для связи.
+item.packagedautowireless.package_connector.tooltip.2=ПКМ по воздуху — список связей; Shift+ПКМ — очистка всех связей.
+item.packagedautowireless.package_connector.bound=Привязана цель [%s, %s, %s] сторона %s
+item.packagedautowireless.package_connector.linked=Связано с беспроводным поставщиком (всего %s)
+item.packagedautowireless.package_connector.already_linked=Эта цель уже связана!
+item.packagedautowireless.package_connector.not_bound=Сначала привяжите упаковочный блок
+item.packagedautowireless.package_connector.wrong_dimension=Цель должна быть в том же измерении
+item.packagedautowireless.package_connector.cleared=Очищено %s связанных целей
+item.packagedautowireless.package_connector.unbind_item=Сохранённая цель в соединителе очищена
+item.packagedautowireless.package_connector.list_empty=Нет целей, связанных с этим беспроводным поставщиком
+item.packagedautowireless.package_connector.list_header=Связанные цели (%s):
+item.packagedautowireless.package_connector.list_entry=%s. Измерение %s  [%s, %s, %s]  сторона %s
